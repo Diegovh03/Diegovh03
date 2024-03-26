@@ -8,6 +8,6 @@ I recently embarked on enhancing my skills in data analysis using Python for mod
 🌱 I'm continuously learning and honing my skills in Python to enhance my capabilities in data-driven environmental research.
 👯 I’m open to collaboration and eager to engage in impactful projects that contribute to advancements in environmental science.
 
-Feel free to reach out at diego.valdiviah@email.com to discuss potential collaborations or opportunities. Looking forward to connecting with you!
+Feel free to reach out at diego.valdiviah@gmail.com to discuss potential collaborations or opportunities. Looking forward to connecting with you!
 
 Best regards,
