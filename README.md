@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Diego Valdivia, an Environmental Engineer with over 5 years of experience in the energy, mining, and metallurgical sectors. I've extensively utilized various software and tools for environmental analysis and modeling across diverse scenarios, including ArcGIS, Terrset, Aermod, among others. 
+My name is Diego Valdivia, an Environmental Engineer with over 5 years of experience in the energy, mining, and metallurgical sectors. I've extensively utilized various software and tools for environmental analysis and modeling across diverse scenarios, including ArcGIS, LCA, Terrset, Aermod, among others. 
 
 I recently embarked on enhancing my skills in data analysis using Python for modeling purposes. I'm eager to contribute to cutting-edge research in environmental science and make a positive impact on sustainability initiatives.
 
