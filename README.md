@@ -1,6 +1,6 @@
 # Introduction Section
 
-#👋 Hi there! I'm Diego Valdivia
+👋 Hi there! I'm Diego Valdivia
 
 I'm an Environmental Engineer with over 5 years of professional experience in environmental management across the energy, metallurgical, and industrial sectors. Over the past few years, I have specialized in applying **Life Cycle Assessment (LCA)** and **Material Flow Analysis (MFA)** to evaluate the environmental performance of technologies and resource flows, especially within battery and recycling systems.
 
