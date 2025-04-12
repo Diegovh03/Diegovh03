@@ -56,9 +56,3 @@ I’m currently advancing my skills in **Brightway2** and **dynamic sustainabili
 🔗 **[LinkedIn](https://www.linkedin.com/in/valdiviadiego/)**
 """
 
-# Save to a markdown file
-file_path = "/mnt/data/README_DiegoValdivia.md"
-with open(file_path, "w") as f:
-    f.write(readme_content)
-
-file_path
