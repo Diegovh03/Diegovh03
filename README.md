@@ -1,4 +1,4 @@
-# Introduction Section
+# Introduction 
 
 👋 Hi there! I'm Diego Valdivia
 
